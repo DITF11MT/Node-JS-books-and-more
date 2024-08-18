@@ -1,0 +1,26 @@
+[
+  {
+    "isbn": "978-3-16-148410-0",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": [
+      {
+        "user": "JohnDoe",
+        "rating": 5,
+        "comment": "A masterpiece of 20th century literature."
+      }
+    ]
+  },
+  {
+    "isbn": "978-0-7432-7356-5",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": [
+      {
+        "user": "JaneDoe",
+        "rating": 5,
+        "comment": "A compelling story about justice and humanity."
+      }
+    ]
+  }
+]
